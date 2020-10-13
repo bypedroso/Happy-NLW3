@@ -19,7 +19,7 @@
 ## 💻 Sobre o Projeto
 
 <p>
-Projeto que visa conectar o você aos orfanatos, plataforma para localizar orfanatos na sua cidade para que possam deixar o dia das crianças mais feliz! 
+Projeto que visa conectar você aos orfanatos, localize, visite e ajude orfanatos da sua cidade!
 </p>
 
 <p align="center">
